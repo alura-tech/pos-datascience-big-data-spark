@@ -24,5 +24,5 @@ Analisar os dados no Spark e criar recomendações baseadas em *Collaborative Fi
 
 
 Vamos lá!!! 
-<p align="left"><img src='https://media.giphy.com/media/721us8U63qA4VgOJ1r/giphy.gif'</p>
+<p align="left"><img src='https://media.giphy.com/media/efCdWBE19bR26ScE02/giphy-downsized-large.gif'</p>
 	
