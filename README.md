@@ -15,7 +15,7 @@
 Os dados foram obtidos no [Kaggle](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020) e contém informações sobre animes e a preferência de milhares de usuários diferentes, coletadas entre 26 de fevereiro e 20 de março de 2020. 
 
 
-Neste módulo trabalhamos com os seguintes datasets:
+Neste módulo vamos trabalhar com os seguintes *datasets*:
 - `animelist.csv`
 - `anime_with_synopsis.csv`
 
