@@ -19,6 +19,11 @@ Neste módulo vamos trabalhar com os seguintes *datasets*:
 - `animelist.csv`
 - `anime_with_synopsis.csv`
 
+Os *datasets* estão disponíveis neste link: 
+https://drive.google.com/drive/folders/1tFJgm41M94XFrrOoskYT_WbH7s5TRS3h?usp=sharing
+
+> Não esqueça de fazer o *download* dos arquivos e criar uma pasta no seu Google drive com esses arquivos! 
+
 ### Objetivo 🎯
 Analisar os dados no Spark e criar recomendações baseadas em *Collaborative Filtering*. 
 
