@@ -4,7 +4,7 @@
 ### Notebooks 📓
 
 - [Aula 1 - Conhecendo o Spark](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_1.ipynb)
-- [Aula 2 - Operações básicas no Spark](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_2.ipynb)
+- [Aula 2 - Operações Básicas no Spark](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_2.ipynb)
 - [Aula 3 - Consultas e Seleções](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_3.ipynb)
 - [Aula 4 - Operações entre DataFrames e Armazenamento](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_4.ipynb)
 - [Aula 5 - Introdução aos Sistemas de Recomendação](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_5.ipynb)
