@@ -1,5 +1,5 @@
 ## Pós-Graduação em Data Science: 
-### Machine Learning em Big Data com Spark! 🗃️
+### Machine Learning em Big Data com Pyspark! 🗃️
 
 ### Notebooks 📓
 
