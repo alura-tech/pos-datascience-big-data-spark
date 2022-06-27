@@ -4,7 +4,7 @@
 ### Notebooks 📓
 
 - [Aula 1 - Conhecendo o Spark](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_1.ipynb)
-- [Aula 2 - Operações Básicas no Spark](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_2.ipynb)
+- [Aula 2 - Operações Básicas no Pyspark](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_2.ipynb)
 - [Aula 3 - Consultas e Seleções](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_3.ipynb)
 - [Aula 4 - Operações entre DataFrames e Armazenamento](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_4.ipynb)
 - [Aula 5 - Introdução aos Sistemas de Recomendação](https://github.com/alura-tech/pos-datascience-big-data-spark/blob/main/Notebooks/Aula_5.ipynb)
@@ -25,7 +25,7 @@ Os *datasets* estão disponíveis aqui:
 > Não se esqueça de fazer o *download* dos arquivos e criar uma pasta no seu Google drive com esses arquivos! 
 
 ### Objetivo 🎯
-Analisar os dados no Spark e criar recomendações baseadas em *Collaborative Filtering*. 
+Analisar os dados com o Pypark e criar recomendações baseadas em *Collaborative Filtering*. 
 
 
 Vamos lá!!! 
