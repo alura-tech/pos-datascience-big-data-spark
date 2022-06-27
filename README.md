@@ -25,7 +25,7 @@ Os *datasets* estão disponíveis aqui:
 > Não se esqueça de fazer o *download* dos arquivos e criar uma pasta no seu Google drive com esses arquivos! 
 
 ### Objetivo 🎯
-Analisar os dados com o Pypark e criar recomendações baseadas em *Collaborative Filtering*. 
+Analisar os dados com o Pyspark e criar recomendações baseadas em *Collaborative Filtering*. 
 
 
 Vamos lá!!! 
